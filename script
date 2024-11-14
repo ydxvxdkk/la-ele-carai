@@ -1,13 +1,13 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "yDxvxd HUB | Paid Script | South Bronx: The Trenches❗",
-   LoadingTitle = "yDxvxd's Paid Script",
+   Name = "MAGMA HUB | Paid Script | South Bronx: The Trenches❗",
+   LoadingTitle = "MAGMA's Paid Script",
    LoadingSubtitle = "Created by yDxvxd",
    ConfigurationSaving = {
       Enabled = true,
       FolderName = nil, -- Create a custom folder for your hub/game
-      FileName = "yDxvxd Hub"
+      FileName = "MAGMA Hub"
    },
     Discord = {
         Enabled = true,
@@ -19,7 +19,7 @@ local Window = Rayfield:CreateWindow({
         Title = "Key System",
         Subtitle = "Created by yDxvxd",
         Note = "To get the key, add ydxvxd.xyz on discord",
-        FileName = "yDxvxd HUB KEY",
+        FileName = "MAGMA HUB KEY",
         SaveKey = false, -- Key won't be saved permanently
         GrabKeyFromSite = true,
         Key = {"https://pastebin.com/J1sL1SkX"} -- List of accepted keys or key URLs
