@@ -27,7 +27,7 @@ local Window = Rayfield:CreateWindow({
 })
 
 Rayfield:Notify({
-   Title = "Welcome To yDxvxd HUB",
+   Title = "Welcome To MAGMA HUB",
    Content = "Thanks for using our script!",
    Duration = 5,
    Image = nil,
