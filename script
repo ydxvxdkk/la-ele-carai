@@ -1,13 +1,13 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "MAGMA HUB | Paid Script | South Bronx: The Trenches❗",
-   LoadingTitle = "MAGMA's Paid Script",
-   LoadingSubtitle = "Criado por yDxvxd",
+   Name = "yDxvxd HUB | Paid Script | South Bronx: The Trenches❗",
+   LoadingTitle = "yDxvxd's Paid Script",
+   LoadingSubtitle = "Created by yDxvxd",
    ConfigurationSaving = {
       Enabled = true,
       FolderName = nil, -- Create a custom folder for your hub/game
-      FileName = "MAGMA Hub"
+      FileName = "yDxvxd Hub"
    },
     Discord = {
         Enabled = true,
@@ -17,18 +17,18 @@ local Window = Rayfield:CreateWindow({
    KeySystem = true, -- Enable key system
     KeySettings = {
         Title = "Key System",
-        Subtitle = "Criado por yDxvxd",
+        Subtitle = "Created by yDxvxd",
         Note = "Para pegar a key adicione ydxvxd.xyz no discord",
-        FileName = "MAGMA HUB KEY",
+        FileName = "yDxvxd HUB KEY",
         SaveKey = false, -- Key won't be saved permanently
         GrabKeyFromSite = true,
-        Key = {"https://pastebin.com/raw/1HXUK19e"} -- List of accepted keys or key URLs
+        Key = {"https://pastebin.com/TGxXkCMC"} -- List of accepted keys or key URLs
     }
 })
 
 Rayfield:Notify({
-   Title = "Welcome To MAGMA HUB",
-   Content = "Obrigado por usar nosso script!",
+   Title = "Welcome To yDxvxd HUB",
+   Content = "Thanks for using our script!",
    Duration = 5,
    Image = nil,
    Actions = { -- Notification Buttons
