@@ -22,7 +22,7 @@ local Window = Rayfield:CreateWindow({
         FileName = "MAGMA HUB KEY",
         SaveKey = false, -- Key won't be saved permanently
         GrabKeyFromSite = true,
-        Key = {"https://pastebin.com/J1sL1SkX"} -- List of accepted keys or key URLs
+        Key = {"https://pastebin.com/8CNh8LDk"} -- List of accepted keys or key URLs
     }
 })
 
